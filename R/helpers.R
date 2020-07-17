@@ -1,6 +1,6 @@
 #' @export
 notes <- function() {
-  rstudioapi::viewer("https://r-workshop.mindsci.net/")
+ 
   check_xfun()
 
   remote_file <- "https://r-workshop.mindsci.net/Archive.zip"
